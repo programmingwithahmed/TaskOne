@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaskOne</string>
+    <string name="login_title">Hello!</string>
+    <string name="login_hint">Sign in to your account</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_account">Do not have account?</string>
+    <string name="create"><u>Create</u></string>
+    <string name="create_account">Create account</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="sign_up">Sign up</string>
+</resources>
